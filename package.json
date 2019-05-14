@@ -1,0 +1,14 @@
+{
+  "name": "nodecall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Alaa Zorkane",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.30.3"
+  }
+}
