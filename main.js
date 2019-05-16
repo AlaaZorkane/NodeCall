@@ -33,12 +33,12 @@ const configs = [
     },
 
     // rovefif@mail-finder.net
-    /*{ 
-        accountSid: 'ACc3e2743a33aa4e5bcbd3d4f5085d4466', 
-        authToken: 'a7aa86b7001bc2661df52ad56534ae2f', 
-        twilio: '+12564641933', 
-        numbers: ["+212", "+212", "+212", "+212", "+212"] 
-    },*/
+    { 
+        accountSid: 'AC06128ef5d2a7d1c10ded88122018655b', 
+        authToken: '55e6b8de55edaef47972af3cb1771f2a ', 
+        twilio: '+15632395995', 
+        numbers: ["+212697886879", "+212", "+212", "+212", "+212"] 
+    },
 ]
 
 
