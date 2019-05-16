@@ -37,7 +37,7 @@ const configs = [
         accountSid: 'AC06128ef5d2a7d1c10ded88122018655b', 
         authToken: '55e6b8de55edaef47972af3cb1771f2a ', 
         twilio: '+15632395995', 
-        numbers: ["+212697886879", "+212", "+212", "+212", "+212"] 
+        numbers: ["+212697886879"] 
     },
 ]
 
